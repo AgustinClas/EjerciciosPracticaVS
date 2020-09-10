@@ -1,0 +1,12 @@
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio01/bin/Debug/Ejercicio01.exe
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio01/bin/Debug/Ejercicio01.pdb
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio01/obj/Debug/Ejercicio01.csprojAssemblyReference.cache
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio01/obj/Debug/Ejercicio01.csproj.CoreCompileInputs.cache
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio01/obj/Debug/Ejercicio01.exe
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio01/obj/Debug/Ejercicio01.pdb
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio01/bin/Debug/Ejercicio01.exe
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio01/bin/Debug/Ejercicio01.pdb
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio01/obj/Debug/Ejercicio01.csprojAssemblyReference.cache
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio01/obj/Debug/Ejercicio01.csproj.CoreCompileInputs.cache
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio01/obj/Debug/Ejercicio01.exe
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio01/obj/Debug/Ejercicio01.pdb

@@ -1,0 +1,6 @@
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio11/bin/Debug/Ejercicio11.exe
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio11/bin/Debug/Ejercicio11.pdb
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio11/obj/anycpu/Debug/Ejercicio11.csprojAssemblyReference.cache
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio11/obj/anycpu/Debug/Ejercicio11.csproj.CoreCompileInputs.cache
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio11/obj/anycpu/Debug/Ejercicio11.exe
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio11/obj/anycpu/Debug/Ejercicio11.pdb

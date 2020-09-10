@@ -1,0 +1,18 @@
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio17/bin/Debug/Ejercicio17.exe
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio17/bin/Debug/Ejercicio17.pdb
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.csprojAssemblyReference.cache
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.csproj.CoreCompileInputs.cache
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.exe
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.pdb
+/Users/agustin/Desktop/UTN/Programacion 2/EjerciciosPractica/Clas.Agustin/Ejercicio17/bin/Debug/Ejercicio17.exe
+/Users/agustin/Desktop/UTN/Programacion 2/EjerciciosPractica/Clas.Agustin/Ejercicio17/bin/Debug/Ejercicio17.pdb
+/Users/agustin/Desktop/UTN/Programacion 2/EjerciciosPractica/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.csprojAssemblyReference.cache
+/Users/agustin/Desktop/UTN/Programacion 2/EjerciciosPractica/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.csproj.CoreCompileInputs.cache
+/Users/agustin/Desktop/UTN/Programacion 2/EjerciciosPractica/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.exe
+/Users/agustin/Desktop/UTN/Programacion 2/EjerciciosPractica/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.pdb
+/Users/agustin/Desktop/EjerciciosPractica/Clas.Agustin/Ejercicio17/bin/Debug/Ejercicio17.exe
+/Users/agustin/Desktop/EjerciciosPractica/Clas.Agustin/Ejercicio17/bin/Debug/Ejercicio17.pdb
+/Users/agustin/Desktop/EjerciciosPractica/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.csprojAssemblyReference.cache
+/Users/agustin/Desktop/EjerciciosPractica/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.csproj.CoreCompileInputs.cache
+/Users/agustin/Desktop/EjerciciosPractica/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.exe
+/Users/agustin/Desktop/EjerciciosPractica/Clas.Agustin/Ejercicio17/obj/anycpu/Debug/Ejercicio17.pdb

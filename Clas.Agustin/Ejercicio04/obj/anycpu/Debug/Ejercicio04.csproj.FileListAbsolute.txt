@@ -1,0 +1,11 @@
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio04/bin/Debug/Ejercicio04.exe
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio04/bin/Debug/Ejercicio04.pdb
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio04/obj/anycpu/Debug/Ejercicio04.csproj.CoreCompileInputs.cache
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio04/obj/anycpu/Debug/Ejercicio04.exe
+/Users/agustin/Desktop/Clas.Agustin/Ejercicio04/obj/anycpu/Debug/Ejercicio04.pdb
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio04/bin/Debug/Ejercicio04.exe
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio04/bin/Debug/Ejercicio04.pdb
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio04/obj/anycpu/Debug/Ejercicio04.csprojAssemblyReference.cache
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio04/obj/anycpu/Debug/Ejercicio04.csproj.CoreCompileInputs.cache
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio04/obj/anycpu/Debug/Ejercicio04.exe
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/Ejercicio04/obj/anycpu/Debug/Ejercicio04.pdb

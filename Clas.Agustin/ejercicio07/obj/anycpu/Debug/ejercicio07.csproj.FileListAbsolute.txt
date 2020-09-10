@@ -1,0 +1,5 @@
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/ejercicio07/bin/Debug/ejercicio07.exe
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/ejercicio07/bin/Debug/ejercicio07.pdb
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/ejercicio07/obj/anycpu/Debug/ejercicio07.csproj.CoreCompileInputs.cache
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/ejercicio07/obj/anycpu/Debug/ejercicio07.exe
+/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/ejercicio07/obj/anycpu/Debug/ejercicio07.pdb
