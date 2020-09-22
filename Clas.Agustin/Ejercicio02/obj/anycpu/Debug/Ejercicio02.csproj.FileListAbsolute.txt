@@ -1,6 +1,0 @@
-/Users/agustin/Desktop/Clas.Agustin/Ejercicio02/obj/anycpu/Debug/Ejercicio02.csprojAssemblyReference.cache
-/Users/agustin/Desktop/Clas.Agustin/Ejercicio02/obj/anycpu/Debug/Ejercicio02.csproj.CoreCompileInputs.cache
-/Users/agustin/Desktop/Clas.Agustin/Ejercicio02/bin/Debug/Ejercicio02.exe
-/Users/agustin/Desktop/Clas.Agustin/Ejercicio02/bin/Debug/Ejercicio02.pdb
-/Users/agustin/Desktop/Clas.Agustin/Ejercicio02/obj/anycpu/Debug/Ejercicio02.exe
-/Users/agustin/Desktop/Clas.Agustin/Ejercicio02/obj/anycpu/Debug/Ejercicio02.pdb

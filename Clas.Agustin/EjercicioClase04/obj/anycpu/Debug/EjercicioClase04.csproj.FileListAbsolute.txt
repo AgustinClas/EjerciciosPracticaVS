@@ -1,6 +1,0 @@
-/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/EjercicioClase04/bin/Debug/EjercicioClase04.exe
-/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/EjercicioClase04/bin/Debug/EjercicioClase04.pdb
-/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/EjercicioClase04/obj/anycpu/Debug/EjercicioClase04.csprojAssemblyReference.cache
-/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/EjercicioClase04/obj/anycpu/Debug/EjercicioClase04.csproj.CoreCompileInputs.cache
-/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/EjercicioClase04/obj/anycpu/Debug/EjercicioClase04.exe
-/Users/agustin/Desktop/UTN/Programacion 2/Clas.Agustin/EjercicioClase04/obj/anycpu/Debug/EjercicioClase04.pdb
